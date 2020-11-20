@@ -1,0 +1,11 @@
+arr_port,arr_city,abs_pax
+LHR     ,LON     ,4793
+CDG     ,PAR     ,3785
+JFK     ,NYC     ,3760
+BKK     ,BKK     ,3524
+LAX     ,LAX     ,3482
+MIA     ,MIA     ,3223
+DXB     ,DXB     ,3013
+MCO     ,ORL     ,2976
+FCO     ,ROM     ,2533
+SFO     ,SFO     ,2524
